@@ -10,7 +10,7 @@ about_mission,"Our mission is to raise a generation of excellence, deeply rooted
 about_vision,"To see every student on campus experience the love of Christ and discover their God-given purpose."
 social_instagram,https://instagram.com/rcfunilag
 social_youtube,https://youtube.com/@rcfunilag
-social_whatsapp,https://#
+social_whatsapp,https://whatsapp.com/channel/0029Vb72JS37z4kbmXBB1k1n
 social_spotify,https://open.spotify.com/show/0SW6z1Bktu45pMCIl3xMFc?si=8a9ef8de22e9427a
 footer_email,officialrcfunilag@gmail.com
 link_become_a_member,/ql/join
